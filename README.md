@@ -5,4 +5,4 @@ Biscoito da sote Feito com React.js
 
 #Projeto Feito no curso de React Js da plataforma Udemy
 
-![Udemy][https://www.udemy.com/course-dashboard-redirect/?course_id=2365916]
+![](https://www.udemy.com/course-dashboard-redirect/?course_id=2365916)
